@@ -8,7 +8,7 @@ PHP package Download TikTok video without watermark
 $ composer require neihnat/tiktok-downloader
 ```
 
-## Usage
+## Example
 
 1. Get data
 ```php
