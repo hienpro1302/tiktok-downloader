@@ -1,0 +1,21 @@
+{
+    "name": "neihnat/tiktok-downloader",
+    "description": "This is Package download tiktok video no watermark",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neih nat",
+            "email": "tanhien.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "NeihNat\\TiktokDownloader\\": "/src"
+        }
+    }
+}
